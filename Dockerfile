@@ -1,6 +1,6 @@
 FROM babim/oraclelinuxbase:7
 ENV SOFT	ServiceDesk
-ENV EDITTION	enterprise
+ENV EDITTION	pro
 ENV SOFT_HOME	/opt/ManageEngine/${SOFT}
 
 # install depend
