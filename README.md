@@ -1,5 +1,4 @@
-# opmanager
-ManageEngine Service Desk on docker
+# ManageEngine Service Desk on docker
 
 To quickly get started running use the following command:
 ```bash
